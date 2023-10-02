@@ -4,11 +4,11 @@
 I discovered my interest in technology recently, and now I'm always looking to learn more and develop my skills to achieve my goal in the programming area.
 
 
-## Redes Sociais
+## Conecte-se Comigo
 
 [![LikedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/henrique-cosmo)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ohenrique_cosmo?igshid=OGQ5ZDc2ODk2ZA==)
-
+[![Meu perfil na Dio](https://img.shields.io/badge/Meu_Perfil_Dio-E5F?style=for-the-badge&logo=)](https://www.dio.me/users/henriquediascosmo)
 
 
 
