@@ -1,6 +1,6 @@
 
 
-# Olá! Eu sou o Henrique Cosmo 
+# Hello World! I'm Henrique Cosmo 
 I discovered my interest in technology recently, and now I'm always looking to learn more and develop my skills to achieve my goal in the programming area.
 
 
